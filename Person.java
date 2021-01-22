@@ -9,7 +9,7 @@ public class Person
 		 	name = "";
 			email = "";
 			phoneNum = "";
-	 }
+	 } 
 
 	 public Person(String initName, String initEmail, String initPhoneNum)
    {
